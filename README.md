@@ -414,7 +414,7 @@ In the `js/index.js` file, there are four functions defined in JavaScript. Your
 job is to recreate the functionality of those functions by writing methods in
 Ruby that will accomplish the same thing.
 
-Write your code in `methods.rb`. Run `learn test`, and use the tests along with
+Write your code in `methods.rb`. Run `bin/rspec`, and use the tests along with
 the code in `js/index.js` to guide your work.
 
 1. Define a method `#greet_programmer` that takes no arguments. It should output
